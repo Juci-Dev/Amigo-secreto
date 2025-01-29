@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> 🔖  Sobre</h2>
-<p>.</p>
+<p> O Challenge Amigo Secreto é um projeto da Alura One, criado para que nós, alunos, possamos aplicar os conhecimentos adquiridos durante o curso..</p>
 
 ##   🚀  Tecnologias
 <div>

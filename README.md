@@ -19,4 +19,6 @@ Nomes repetidos não serão aceitos.
 Após adicionar, clique em "Sortear amigo" e aguarde o resultado!
 
 Link do jogo: amigo-secreto-six-teal.vercel.app
+
+
 ![image](https://github.com/user-attachments/assets/4991e494-7858-47fb-b8c0-e0cfc03abec0)
